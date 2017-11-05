@@ -30,7 +30,7 @@ p {
   text-align: center;
 }
 
-#footer {
+.footer {
   text-align: right !important;
   color: gray;
 }
